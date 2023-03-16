@@ -1,0 +1,2 @@
+# script
+Daily script collection
